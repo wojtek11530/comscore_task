@@ -4,4 +4,5 @@ from pathlib import Path
 
 PROJECT_DIR = Path(__file__).parent.parent.resolve()
 STORAGE_DIR = PROJECT_DIR / "storage"
+DATASETS_DIR = STORAGE_DIR / "data"
 CHECKPOINTS_DIR = STORAGE_DIR / "checkpoints"
