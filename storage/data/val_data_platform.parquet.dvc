@@ -1,0 +1,4 @@
+outs:
+- md5: aceb0924e9d7267913a06acedf7fb1ba
+  size: 2877
+  path: val_data_platform.parquet
