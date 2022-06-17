@@ -1,0 +1,4 @@
+outs:
+- md5: 74ab1b89faada19256c2888838c47b15
+  size: 439869
+  path: xgb_model.pkl
